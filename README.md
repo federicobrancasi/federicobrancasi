@@ -8,7 +8,7 @@ Visualize my career as a flourishing garden - a constant evolution filled with i
 
 ## 🌐 Let's Connect and Collaborate
 
-- LinkedIn: [Link Up With Me](www.linkedin.com/in/federicobrancasi)
+- LinkedIn: [Link Up With Me](https://www.linkedin.com/in/federicobrancasi/)
 - Email: [Drop Me a Line](mailto:federicobrancasi@gmail.com)
 
 ## 🛠️ Peek into My Coding World
