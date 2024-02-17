@@ -1,10 +1,6 @@
 # 👋 Hey, I'm Federico - Let's Code the Future Together!
 
-Greetings from my coding corner!  I'm Federico, an enthusiastic explorer in the expansive realm of computer science. Currently, I'm immersed in the captivating journey of pursuing a Double M.S. in Computer Science at the University of Trento and Eötvös Loránd University in Budapest, infusing a fintech flavor into my studies.
-
-## 🌿 Nurturing a Garden of Innovation
-
-Visualize my career as a flourishing garden - a constant evolution filled with innovative blooms. Each project serves as a stepping stone, an opportunity for continuous learning and growth. I'm on the lookout for like-minded visionaries eager to shape the future alongside me.
+Greetings from my coding corner!  I'm Federico, an enthusiastic explorer in the expansive realm of computer science. Currently, I'm immersed in the captivating journey of pursuing a Double M.S. in Computer Science at the University of Trento and Eötvös Loránd University in Budapest, infusing a fintech flavor into my studies. I'm on the lookout for like-minded visionaries eager to shape the future alongside me.
 
 ## 🌐 Let's Connect and Collaborate
 
