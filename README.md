@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Federico - Let's Code the Future Together!
 
-Greetings from my coding corner! I'm Federico, an enthusiastic explorer in the expansive realm of computer science. Currently, I'm at ETH Zurich working on my Master's thesis in AI model quantization, while completing my Double M.S. in Computer Science at the University of Trento and Eötvös Loránd University in Budapest. I'm on the lookout for like-minded visionaries eager to shape the future alongside me.
+Greetings from my coding corner! I'm Federico, an enthusiastic explorer in the expansive realm of computer science. Currently, I'm conducting ML research at CERN on model optimization techniques, after completing my Master's thesis research at ETH Zurich on AI model quantization. I'm on the lookout for like-minded visionaries eager to shape the future alongside me.
 
 ## 🌐 Let's Connect and Collaborate
 
