@@ -25,7 +25,7 @@ Here are some carefully selected projects I have on GitHub:
 
 3. **Enhanced File Explorer for Chrome**
    - Improves Chrome's file explorer when browsing local files, compatible with all the Chromium-based browsers.
-   - Over 900 daily users and 5000+ installations
+   - Over 1000 daily users and 5000+ installations
    - Tech Stack: JavaScript, Chrome Extension API
    - GitHub: [Explore Project](https://github.com/federicobrancasi/Enhanced-File-Explorer-for-Chrome)
 
