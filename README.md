@@ -7,6 +7,7 @@ Greetings from my coding corner! I'm Federico, an enthusiastic explorer in the e
 - LinkedIn: [Link Up With Me](https://www.linkedin.com/in/federicobrancasi/)
 - Email: [Drop Me a Line](mailto:federicobrancasi@gmail.com)
 
+<!---
 ## 🛠️ Peek into My Coding World
 
 Here are some carefully selected projects I have on GitHub:
@@ -40,3 +41,4 @@ Here are some carefully selected projects I have on GitHub:
    - Cheatsheets on Linear Algebra, Multivariate Calculus, and Principal Component Analysis 
    - Tech Stack: Python, Jupyter Notebooks
    - GitHub: [Explore Project](https://github.com/federicobrancasi/Mathematics)
+-->
